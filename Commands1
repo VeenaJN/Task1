@@ -1,0 +1,10 @@
+To create files 
+touch filename.txt
+example : touch file1.txt file2.txt file3.txt file4.txt ..........file20.txt
+
+To rename the files 
+mv oldfilename new filename
+example: mv file1.txt file1.yml 
+
+Print the latest created top 5 files among the total no of files 
+ls -t | head -5
