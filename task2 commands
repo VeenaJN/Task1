@@ -1,0 +1,8 @@
+Create a file with .txt extension
+touch /home/demo.txt
+command to read any user 
+chmod a+r demo.txt
+  comand to read/write for group
+chmod g+rw demo.txt
+  command to read,write and excute for the owner 
+chmod u+rwx demo.txt
