@@ -1,0 +1,15 @@
+Get me IP address of particular domain (guvi.in) 
+ By using command : nslookup guvi.in
+please do find screenshot for ip address
+
+How do I find my CPU/memory usage of my server?
+by using command : free/top 
+please do find screenshot of memory
+
+test the connectivity between 2 nodes 
+by using command called ping www.google.com 
+please find the screenshot of connectivity
+
+I have deployed an application in guvi.com:9000, and logs shows my app is running, but I’m unable to view the page. Check whether my port is open or not ?
+by using command :sudo lsof -i :9000
+If the result is empty (returns no output), the port is not open. Otherwise, it will show the process associated with port 9000.
