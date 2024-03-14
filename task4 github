@@ -1,0 +1,13 @@
+To Establish a new directory by using command :mkdir foldername (ex ->mkdir task5)
+To Populate it with Script Files by using command :touch filename.sh (ex --> touch veenatask5.sh)
+Create an Empty Repository on GitHub:
+Go to GitHub and need to  log in.
+Click the “+” icon in the top right corner and select “New repository.”
+To initiate an empty repository on GitHub by using a command :git init 
+add and comit my file by using commands :git add . and git comit -m "my ist commit"
+to convert the local directory into a Git repository by using command :git remote add origin <repository_url>
+to link it to GitHub for pushing the code into the repository by using commad :git push -u origin master
+
+PLEASE FIND SCREENSHOTS FOR ALL THE COMMANDS TASK4-GITHUB
+
+
